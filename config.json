@@ -1,0 +1,9 @@
+[
+    {
+        "model": "gpt-35-turbo",
+        "api_key": "",
+        "api_type": "azure",
+        "base_url": "",
+        "api_version": "2025-01-01-preview"
+    }
+]

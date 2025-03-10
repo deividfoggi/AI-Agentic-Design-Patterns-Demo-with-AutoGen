@@ -1,0 +1,8 @@
+#ignore common python files
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+.cache
+
+#MacOS local files
+.DS_Store
